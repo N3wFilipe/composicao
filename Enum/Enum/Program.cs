@@ -1,4 +1,6 @@
 ﻿using System;
+using Enum.Entities;
+using Enum.Entities.Enums;
 
 namespace Enum
 {
@@ -6,7 +8,14 @@ namespace Enum
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Order order = new Order
+            {
+                Id = 1080,
+                Moment = DateTime.Now,
+                Status = OrderStatus.PendingPayment
+            };
+
+            Console.WriteLine(order);
         }
     }
 }
