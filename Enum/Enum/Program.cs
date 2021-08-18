@@ -2,6 +2,7 @@
 using Enum.Entities;
 using Enum.Entities.Enums;
 
+
 namespace Enum
 {
     class Program
@@ -16,6 +17,10 @@ namespace Enum
             };
 
             Console.WriteLine(order);
+
+            string txt = OrderStatus.PendingPayment.ToString();
+
+            Console.WriteLine(txt);
         }
     }
 }
