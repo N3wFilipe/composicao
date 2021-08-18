@@ -1,0 +1,12 @@
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.exe
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.deps.json
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.runtimeconfig.json
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.dll
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\bin\Debug\netcoreapp3.1\ModificadoresRefEOut.pdb
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.dll
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.pdb
+C:\Users\Filipe\source\repos\ModificadoresRefEOut\ModificadoresRefEOut\obj\Debug\netcoreapp3.1\ModificadoresRefEOut.genruntimeconfig.cache

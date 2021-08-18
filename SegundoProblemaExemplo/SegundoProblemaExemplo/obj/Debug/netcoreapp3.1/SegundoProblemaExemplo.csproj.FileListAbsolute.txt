@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.exe
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.deps.json
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.runtimeconfig.json
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.dll
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\netcoreapp3.1\SegundoProblemaExemplo.pdb
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.dll
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.pdb
+C:\Users\Filipe\source\repos\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\netcoreapp3.1\SegundoProblemaExemplo.genruntimeconfig.cache

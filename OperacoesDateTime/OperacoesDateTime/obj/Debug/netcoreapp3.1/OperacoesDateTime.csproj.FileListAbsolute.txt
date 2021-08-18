@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.exe
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.deps.json
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.runtimeconfig.json
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.dll
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.1\OperacoesDateTime.pdb
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.dll
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.pdb
+C:\Users\Filipe\source\repos\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.1\OperacoesDateTime.genruntimeconfig.cache

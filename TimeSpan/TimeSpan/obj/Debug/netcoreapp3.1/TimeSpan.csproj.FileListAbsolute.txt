@@ -1,0 +1,4 @@
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpan.csproj.CoreCompileInputs.cache

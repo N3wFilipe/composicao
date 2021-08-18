@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.exe
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.deps.json
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.runtimeconfig.json
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.dll
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\bin\Debug\netcoreapp3.1\exercicioProposto3.pdb
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.dll
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.pdb
+C:\Users\Filipe\source\repos\exercicioProposto3\exercicioProposto3\obj\Debug\netcoreapp3.1\exercicioProposto3.genruntimeconfig.cache

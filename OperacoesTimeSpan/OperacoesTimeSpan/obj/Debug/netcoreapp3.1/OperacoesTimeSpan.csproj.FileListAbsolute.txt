@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.exe
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.deps.json
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.runtimeconfig.json
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.dll
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\bin\Debug\netcoreapp3.1\OperacoesTimeSpan.pdb
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.dll
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.pdb
+C:\Users\Filipe\source\repos\OperacoesTimeSpan\OperacoesTimeSpan\obj\Debug\netcoreapp3.1\OperacoesTimeSpan.genruntimeconfig.cache

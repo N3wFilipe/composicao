@@ -1,0 +1,12 @@
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.exe
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.deps.json
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.runtimeconfig.json
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.dll
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\bin\Debug\netcoreapp3.1\TimeSpans.pdb
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.dll
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.pdb
+C:\Users\Filipe\source\repos\TimeSpan\TimeSpan\obj\Debug\netcoreapp3.1\TimeSpans.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.exe
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.deps.json
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.runtimeconfig.json
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.dll
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\netcoreapp3.1\EncapsulamentoManual.pdb
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.dll
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.pdb
+C:\Users\Filipe\source\repos\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\netcoreapp3.1\EncapsulamentoManual.genruntimeconfig.cache

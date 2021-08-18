@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.csproj.AssemblyReference.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\netcoreapp3.1\OperadoresAtribuicao.genruntimeconfig.cache

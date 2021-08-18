@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ModificadoresRefEOut/1.0.0": {
+        "runtime": {
+          "ModificadoresRefEOut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModificadoresRefEOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

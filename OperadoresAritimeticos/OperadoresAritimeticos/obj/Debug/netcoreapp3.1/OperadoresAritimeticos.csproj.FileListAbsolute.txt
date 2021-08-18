@@ -1,0 +1,12 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\netcoreapp3.1\OperadoresAritimeticos.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\netcoreapp3.1\OperadoresAritimeticos.genruntimeconfig.cache

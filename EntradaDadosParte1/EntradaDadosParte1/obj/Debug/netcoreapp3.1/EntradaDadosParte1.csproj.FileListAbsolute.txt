@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\bin\Debug\netcoreapp3.1\EntradaDadosParte1.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.csproj.AssemblyReference.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EntradaDadosParte1\EntradaDadosParte1\obj\Debug\netcoreapp3.1\EntradaDadosParte1.genruntimeconfig.cache

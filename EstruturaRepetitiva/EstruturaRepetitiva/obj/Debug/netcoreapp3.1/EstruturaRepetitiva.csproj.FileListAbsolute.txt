@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\netcoreapp3.1\EstruturaRepetitiva.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.csproj.AssemblyReference.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\netcoreapp3.1\EstruturaRepetitiva.genruntimeconfig.cache

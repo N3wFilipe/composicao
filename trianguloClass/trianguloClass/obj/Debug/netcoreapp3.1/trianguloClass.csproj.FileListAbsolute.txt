@@ -1,0 +1,12 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\bin\Debug\netcoreapp3.1\trianguloClass.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\trianguloClass\trianguloClass\obj\Debug\netcoreapp3.1\trianguloClass.genruntimeconfig.cache

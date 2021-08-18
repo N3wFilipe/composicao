@@ -1,0 +1,13 @@
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.exe
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.deps.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.runtimeconfig.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.runtimeconfig.dev.json
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\bin\Debug\netcoreapp3.1\SemPOO.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.csproj.AssemblyReference.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.AssemblyInfoInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.AssemblyInfo.cs
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.dll
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.pdb
+C:\Users\Filipe\Desktop\C# aprendizado\ws-vs-2019\SemPOO\SemPOO\obj\Debug\netcoreapp3.1\SemPOO.genruntimeconfig.cache

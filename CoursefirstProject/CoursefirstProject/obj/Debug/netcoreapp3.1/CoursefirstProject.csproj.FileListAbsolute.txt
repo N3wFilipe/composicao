@@ -1,0 +1,13 @@
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.csprojAssemblyReference.cache
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.AssemblyInfoInputs.cache
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.AssemblyInfo.cs
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.exe
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.deps.json
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.runtimeconfig.json
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.runtimeconfig.dev.json
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.dll
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\bin\Debug\netcoreapp3.1\CoursefirstProject.pdb
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.dll
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.pdb
+C:\Users\Filipe\source\repos\CoursefirstProject\CoursefirstProject\obj\Debug\netcoreapp3.1\CoursefirstProject.genruntimeconfig.cache
